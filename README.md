@@ -1,3 +1,3 @@
 # Bus-system-in-cpp.
-#Basically a basic crude exe that will help for a normal ticket printing software.
+#Basically a basic crude exe customized software that will help for ticket printing.
 #More versions to come in future.
